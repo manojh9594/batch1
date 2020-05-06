@@ -1,0 +1,26 @@
+git push
+git show cid
+touch file 2
+ls
+git status
+git add file2
+git status
+git commit -m "label" file2
+git log
+git show commit id
+touch fie3 file4 file5 
+ls
+git status
+git add *
+orr
+git add .
+orr
+git add -A
+orr
+git add file3 file4 file5
+git status
+git commit -m "label"
+git status
+git log
+git show cid
+
