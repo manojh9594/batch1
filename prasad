@@ -1,0 +1,11 @@
+git congig
+work space
+staging
+local repo
+git cloan
+cd batch
+touch file
+git status
+git commit
+git commit
+git log
